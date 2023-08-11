@@ -1,3 +1,16 @@
+# Description 
+E-community (e-com) is a website for the benefit of both students and 
+faculty staff members in FCAI. It provides a set of comprehensive 
+features to support students to register for courses, chatting with Professors and TAs, notifications for every important announcement, and viewing their 
+grades and exam halls, get to know the schedule and more. 
+Professors and teaching assistants can view the number of students 
+registered in every course, statistics for students, fill-in attendance sheets, and more. In this 
+project, we update the existing website of the e-com to make it more 
+friendly and easier to deal with its provided features. Also, we add 
+new features to enrich the website with more features that can 
+benefit the target users, and make it easier to use and user-friendly.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
