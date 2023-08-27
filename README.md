@@ -16,16 +16,6 @@ This project aims to enhance the existing website for the Faculty of Computers a
 
 - **Statistical Insights:** Empowers professors and teaching assistants with the ability to view statistics related to student enrollment in each course. This feature provides valuable insights for planning and resource allocation.
 
-
-
-
-
-
-
-
-
-
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
